@@ -1,4 +1,6 @@
 ## Hi there 👋
+## Just your average college student
+## Hopeful will be more projects here soon 
 
 <!--
 **Mibrahim7147/Mibrahim7147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
