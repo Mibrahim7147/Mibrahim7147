@@ -1,9 +1,9 @@
 ## Hi there 👋
-## Just your below average college student
+## Just another below average college student
 ## Hopeful will be more projects here soon 
 
 
-## Currently working on my capstone for my associates degree
+## Currently working on my portfolio
 <!--
 **Mibrahim7147/Mibrahim7147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
